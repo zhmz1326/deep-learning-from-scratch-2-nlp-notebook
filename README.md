@@ -1,4 +1,4 @@
-# 深度学习入门2 自然语言处理篇 源代码 jupyter notebook 版
+# 深度学习入门2 自然语言处理(NLP)篇 源代码 jupyter notebook 版
 
 原始代码来自：https://github.com/oreilly-japan/deep-learning-from-scratch-2
 
